@@ -1,5 +1,7 @@
-from graph import *
-from math import *
+from graph import canvasSize, run
+from graph import penColor, brushColor, penSize
+from graph import rectangle, circle, polygon
+from math import sin, cos, pi
 
 
 def fon():
